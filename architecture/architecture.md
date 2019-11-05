@@ -2,20 +2,20 @@
 
 - AI
 
-![AI](./aiUML.png)
+![AI](./aiUML.PNG)
 
 - Attack states
 
-![Attack states](./attackstatesUML.png)
+![Attack states](./attackstatesUML.PNG)
 
 - Attack types
 
-![Attack types](./attackUML.png)
+![Attack types](./attackUML.PNG)
 
 - Formations
 
-![Formations](./formationUML.png)
+![Formations](./formationUML.PNG)
 
 - Unit implementation
 
-![Gatherer](./gatherUML.png)
+![Gatherer](./gatherUML.PNG)
