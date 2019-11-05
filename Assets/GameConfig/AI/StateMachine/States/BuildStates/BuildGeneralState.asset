@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9c27682c6f0c024483df6b8c99904d1, type: 3}
+  m_Name: BuildGeneralState
+  m_EditorClassIdentifier: 
+  actions: []
+  transitions:
+  - decision: {fileID: 11400000, guid: 513c8dfd4c0cad54da3be1f4c8d891e0, type: 2}
+    trueState: {fileID: 0}
+    falseState: {fileID: 11400000, guid: c2fbbb2e9a77db449b50fb237d525581, type: 2}
+    priority: 8
+  - decision: {fileID: 11400000, guid: fb61328e5ed996741a5a7124e689f2db, type: 2}
+    trueState: {fileID: 0}
+    falseState: {fileID: 11400000, guid: 2f67671dacf2c7b4194c0b021047a572, type: 2}
+    priority: 9
+  - decision: {fileID: 11400000, guid: 22b8b9ae3efe3ff48bb1013d5b24b2f3, type: 2}
+    trueState: {fileID: 0}
+    falseState: {fileID: 11400000, guid: f1e021f7c087a5f4aa702d06f869a8af, type: 2}
+    priority: 5
+  - decision: {fileID: 11400000, guid: 6484af779665a0e43aeddb3a268abb8c, type: 2}
+    trueState: {fileID: 0}
+    falseState: {fileID: 11400000, guid: 306609d4ac6582f4094872b3b52831e4, type: 2}
+    priority: 6
+  - decision: {fileID: 11400000, guid: 4613e16f7b83cdd44ad4f7d4114ea941, type: 2}
+    trueState: {fileID: 0}
+    falseState: {fileID: 11400000, guid: add6ddd7e8f43854da9f69051b636da7, type: 2}
+    priority: 7
+  - decision: {fileID: 11400000, guid: 6657fcef669a278459c2d8d6af0eaab9, type: 2}
+    trueState: {fileID: 0}
+    falseState: {fileID: 11400000, guid: fa896cc3eb369814eb8e5f5b2c16c035, type: 2}
+    priority: 3
+  - decision: {fileID: 0}
+    trueState: {fileID: 11400000, guid: 26fe0f7eb80ba2f4b8c99a00f3a8e5ed, type: 2}
+    falseState: {fileID: 0}
+    priority: 2

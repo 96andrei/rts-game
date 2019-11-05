@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b7e0981d9a9bce4f89839b0279b5b93, type: 3}
+  m_Name: CounterArmyDecision
+  m_EditorClassIdentifier: 
+  lookFor:
+  - {fileID: 11400000, guid: 703f560e31a5b0c40aea662267d77e37, type: 2}
+  - {fileID: 11400000, guid: 5f3829920d009ec47ab209cf240228c2, type: 2}
+  - {fileID: 11400000, guid: e04a5ee310236fa4485172de04ab1924, type: 2}
+  counterWith:
+  - {fileID: 11400000, guid: e04a5ee310236fa4485172de04ab1924, type: 2}
+  - {fileID: 11400000, guid: 703f560e31a5b0c40aea662267d77e37, type: 2}
+  - {fileID: 11400000, guid: 5f3829920d009ec47ab209cf240228c2, type: 2}
+  counterValue: 1.1
+  target: {fileID: 11400000, guid: b1d05bb3d061fbf4881e7a91f136ab5f, type: 2}
+  amount: 1

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9c27682c6f0c024483df6b8c99904d1, type: 3}
+  m_Name: BuildStartingArchersState
+  m_EditorClassIdentifier: 
+  actions:
+  - {fileID: 11400000, guid: 75ef3d3866780f04c8fe9c3d69af857d, type: 2}
+  transitions:
+  - decision: {fileID: 11400000, guid: 5191db806d865034297710eafe770bbd, type: 2}
+    trueState: {fileID: 11400000, guid: 0811ac01da532f44baaeb199f8e54bf6, type: 2}
+    falseState: {fileID: 0}
+    priority: 0

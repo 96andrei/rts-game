@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b11878a331fbb3409ebe1e2d42d274a, type: 3}
+  m_Name: TownCenter
+  m_EditorClassIdentifier: 
+  uiData: {fileID: 11400000, guid: a85948e41845eb64ab1a722fd97c87c8, type: 2}
+  cost: 0
+  duration: 10
+  prefab: {fileID: 1574946617174234, guid: 0cb19afbd133c2e4fa2314101679b100, type: 2}

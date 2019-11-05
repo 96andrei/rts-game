@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b02b1b1bfe514b54e8e327a98335c4a5, type: 3}
+  m_Name: KnightAttack
+  m_EditorClassIdentifier: 
+  attack:
+    physicalDamage: 15
+    armorPiercing: 1
+  rate: 1.6
+  range: 1.5
+  horizontalAngle: 20
+  verticalAngle: 80
+  projectileSpeed: 0
+  projectileVerticalDamageModifier: 0
+  attackSpeed: 1
+  holdingRange: 32
