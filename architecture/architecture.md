@@ -2,6 +2,8 @@
 
 - AI
 
+It uses 2 different state machines: unit control and build order
+
 ![AI](./aiUML.PNG)
 
 - Attack states

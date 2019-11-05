@@ -12,7 +12,7 @@ Features:
 - easily customizable AI state machine based on scriptable objects
 - an extendable influence map - used as a heat map by AI. A high heat area is an area with a lot of enemy units.
 
-[Architecture](./architecture/architecture.md)
+[Architecture diagrams](./architecture/architecture.md)
 
 Can be improved:
 - the AI framework can be converted / extended to a behaviour tree while keeping the scriptable object architecture
