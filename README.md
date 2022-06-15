@@ -18,3 +18,7 @@ Can be improved:
 - the AI framework can be converted / extended to a behaviour tree while keeping the scriptable object architecture
 - game UX - as this was an academic project and the dev time rather limited, the UI and controls were not a priority
 - buildings 😁
+
+![](https://i.postimg.cc/RhBwWfk0/Screenshot-2022-06-15-184500.jpg)
+![](https://i.postimg.cc/kMQxk1SR/Screenshot-2022-06-15-184638.jpg)
+![](https://i.postimg.cc/kGvKKGCv/Screenshot-2022-06-15-184728.jpg)
